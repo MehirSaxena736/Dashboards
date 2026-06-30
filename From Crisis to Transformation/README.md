@@ -1,6 +1,6 @@
-<h1 align="center">From Crisis to Transformation</h1>
+<h1 align="left">From Crisis to Transformation</h1>
 
-<p align="center">
+<p align="left">
 An interactive Power BI dashboard analyzing the impact of COVID-19 on remote work adoption, employee well-being, productivity, and workplace transformation.
 </p>
 
@@ -50,7 +50,6 @@ From Crisis to Transformation
 │
 ├── README.md
 ├── Dashboard.pbix
-├── Dataset.csv
 └── Images
     ├── dashboards.png
     ├── Screenshot 2026-06-30 235147.png
