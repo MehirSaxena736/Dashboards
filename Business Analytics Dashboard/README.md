@@ -33,11 +33,11 @@ The Business Analytics Dashboard provides a comprehensive view of business data 
 
 ## Dashboard Preview
 
-<p align="center">
+<p align="Left">
     <img src="Images/dashboard.png" alt="Business Analytics Dashboard" width="900">
 </p>
 
-<p align="center">
+<p align="Left">
     <img src="Images/Screenshot%202026-07-02%20222949.png" alt="Business Analytics Insights" width="900">
 </p>
 
@@ -50,7 +50,6 @@ Business Analytics Dashboard
 │
 ├── README.md
 ├── Dashboard.pbix
-├── Dataset.xlsx
 └── Images
     ├── dashboard.png
     └── Screenshot 2026-07-02 222949.png
