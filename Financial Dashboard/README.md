@@ -51,7 +51,6 @@ Financial Performance Dashboard
 │
 ├── README.md
 ├── Dashboard.pbix
-├── Dataset.xlsx
 └── Images
     ├── dashboard.png
     └── Screenshot 2026-07-02 222342.png
